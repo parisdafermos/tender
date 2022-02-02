@@ -1,0 +1,9 @@
+redeploy on remix
+set all up seterling and widget contracts
+
+chek all wokrs fine
+
+add address changes for owner
+add graphics
+
+make look pretty
